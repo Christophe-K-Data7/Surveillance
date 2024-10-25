@@ -29,8 +29,8 @@ geojson
 
 Les objectifs fixés :
 
-Afficher sur une carte les 3 premiers events du user "summers"
-Combien d'events a produit le téléphone de "meltzer"
-Sur quelle période s'étalent les events de "lowe" (date, heure du premier et dernier event)
-Quel est le dernier event du dataset? Qui l'a produit? Où? Quand?
+Afficher sur une carte les 3 premiers events du user "summers"/
+Combien d'events a produit le téléphone de "meltzer"/
+Sur quelle période s'étalent les events de "lowe" (date, heure du premier et dernier event)/
+Quel est le dernier event du dataset? Qui l'a produit? Où? Quand?/
 Ecris une fonction qui prend en entrée le nom d'un user et me renvoie le nombre d'événements que son téléphone a produit
