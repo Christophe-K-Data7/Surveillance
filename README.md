@@ -11,19 +11,16 @@ Mais pour cela j'attends les directives du "bureau des légendes"
 
 le data set events est un fichier JSON duquel nous avons tiré les colonnes suivantes : 
 
-RangeIndex: 18162 entries, 0 to 18161
-Data columns (total 4 columns):
- #   Column      Non-Null Count  Dtype  
----  ------      --------------  -----  
+18162 entries, 0 to 18161
+Data columns 4 columns 
  0   users       18162 non-null  object 
  1   timestamps  18162 non-null  float64
  2   latitude    18162 non-null  float64
  3   longitude   18162 non-null  float64
-dtypes: float64(3), object(1)
 
 Outils utilisés : 
 
-Google colab
+Google colab : https://colab.research.google.com/drive/1l9QQnpKytJIHaSBifvOyRdKJ8PvZv9bn?usp=sharing#scrollTo=hImBSBdNQZwZ
 Python
 Requests
 json
