@@ -11,12 +11,11 @@ Mais pour cela j'attends les directives du "bureau des légendes"
 
 le data set events est un fichier JSON duquel nous avons tiré les colonnes suivantes : 
 
-18162 entries, 0 to 18161
-Data columns 4 columns 
- 0   users       18162 non-null  object 
- 1   timestamps  18162 non-null  float64
- 2   latitude    18162 non-null  float64
- 3   longitude   18162 non-null  float64
+18162 lignes pour 4 colonnes
+users, object
+timestamps, float
+latitude, float
+longitude, float
 
 Outils utilisés : 
 
