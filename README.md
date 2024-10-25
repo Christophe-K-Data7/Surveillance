@@ -12,10 +12,8 @@ Mais pour cela j'attends les directives du "bureau des légendes"
 le data set events est un fichier JSON duquel nous avons tiré les colonnes suivantes : 
 
 18162 lignes pour 4 colonnes
-users, object
-timestamps, float
-latitude, float
-longitude, float
+
+users/timestamp/latitude/longitude
 
 Outils utilisés : 
 
